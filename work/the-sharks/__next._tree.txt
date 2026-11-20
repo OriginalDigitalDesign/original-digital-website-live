@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/2_t2vpe_r-zqt.css","style"]
+:HL["/_next/static/media/Inter_latin-s.p.0tkvg1qpajubl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Prompt_Bold_latin-s.p.1ojnkxxcjzc1u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Prompt_Medium_latin-s.p.0t1rwa6k2ksz1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Prompt_Regular_latin-s.p.22rmy8il1613v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Prompt_SemiBold_latin-s.p.3lr2w75zfk06d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/056f88203930487.66a0038b58406.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"the-sharks","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"r0wHqCKQgZw8cyejJYt4U"}
